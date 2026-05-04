@@ -1,2 +1,2 @@
-# bookish-octo-train
-Repo para administrar los plugins + mods de un servidor de mc
+# El repo de los mods del minecraft
+### Para tener todo mas ordenado, he creado este repo donde estarán los mods, y backups del mundo
